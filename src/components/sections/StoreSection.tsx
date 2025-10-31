@@ -91,7 +91,7 @@ export const StoreSection = () => {
             <span className="text-primary">Memberships</span>
           </h2>
           <p className="text-xl text-muted-foreground">
-            Support the server & unlock exclusive perks
+            Support the server & unlock exclusive perks (Lifetime)
           </p>
         </div>
 
