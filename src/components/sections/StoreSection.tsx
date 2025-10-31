@@ -16,7 +16,7 @@ export const StoreSection = () => {
       icon: "🟢",
       popular: false,
       stripeUrl: "https://wa.me/971547124398",
-      features: ["+2 Homes ", "Priority Join", "Basic Kits", "$35000", "Custom Tag"],
+      features: ["+2 Homes ", "Basic Kits", "$35000 (In game)",],
     },
     {
       name: "Premium Rank",
@@ -31,7 +31,8 @@ export const StoreSection = () => {
         "+5 Homes",
         "Premium kits",
         "Custom Tag",
-        "85k",
+        "$85k (In game)",
+        
       ],
     },
     {
@@ -47,8 +48,8 @@ export const StoreSection = () => {
         "+10 Homes",
         "Elite kits",
         "+walking speed",
-        "Pet access",
-        "Custom Tag"
+        "Custom Tag",
+        "$200k (In game)"
       ],
     },
     {
@@ -64,7 +65,7 @@ export const StoreSection = () => {
         "Unlimited homes",
         "Legendry relic chest",
         "Legendary kits",
-        "$450k",
+        "$450k (In game)",
         "Custom Tag",
       ],
     },
